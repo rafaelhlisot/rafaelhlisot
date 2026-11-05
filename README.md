@@ -25,8 +25,7 @@
 
 <div>
   <a href="https://instagram.com/rafaelhlisot" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.facebook.com/rafaelhlisot" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://discord.gg/C5t8QWaQbQ" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://discord.com/users/279398956369444865" target="_blank"><img alt="Discord: rafaelhlisot" title="Discord: rafaelhlisot" src="https://img.shields.io/badge/Discord-rafaelhlisot-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="mailto:rafaelhenriquelisot@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/rafaelhlisot/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
